@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'CH';
+    src: url(../fonts/chalkboard.otf);
+}
+@font-face {
+    font-family: 'OP-R';
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'OP-SB';
+    src: url(../fonts/Open_Sans/OpenSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'OP-B';
+    src: url(../fonts/Open_Sans/OpenSans-Bold.ttf);
+}
